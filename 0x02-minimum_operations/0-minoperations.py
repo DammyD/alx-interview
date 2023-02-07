@@ -27,4 +27,3 @@ def minOperations(n):
             now += start
             counter += 1
     return counter
-
